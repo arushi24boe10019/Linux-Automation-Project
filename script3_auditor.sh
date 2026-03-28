@@ -1,5 +1,7 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
+# Name: Arushi Srivastava (24BOE10019)
+# Description: Iterates through a list of system directories to report disk space usage, ownership, and file permissions using a for loop.
 # Concepts: for loop, df, ls -ld, awk
 
 # List of important directories to audit
