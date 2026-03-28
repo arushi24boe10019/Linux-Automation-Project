@@ -1,5 +1,7 @@
 #!/bin/bash
 # Script 5: The Open Source Manifesto Generator
+# Name: Arushi Srivastava (24BOE10019)
+# Description: An interactive script that collects user input to generate and save a personalized open-source philosophy statement to a text file.
 # Concepts: read input, string concatenation, redirection (>), date
 
 # TIP: You can create an alias for this script in ~/.bashrc:
