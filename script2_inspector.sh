@@ -1,5 +1,7 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
+# Name: Arushi Srivastava (24BOE10019)
+# Description: Checks if VLC Media Player is installed, retrieves its version, and uses a case statement to describe its purpose.
 # Concepts: if-then-else, case statement, dpkg/grep
 
 PACKAGE="vlc"
