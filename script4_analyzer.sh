@@ -1,5 +1,7 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
+# Name: Arushi Srivastava (24BOE10019)
+# Description: Parses a log file line-by-line using a while-read loop to count and summarize specific keywords like ERROR or WARNING.
 # Concepts: while read loop, if-then, counter, command-line args
 
 LOG_FILE=$1
