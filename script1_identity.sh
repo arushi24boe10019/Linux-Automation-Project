@@ -1,5 +1,7 @@
 #!/bin/bash
 # Script 1: System Identity Report
+# Name: Arushi Srivastava (24BOE10019)
+# Description: Displays system information like OS distribution, kernel version, user details, uptime, and the governing open-source license.
 # Concepts: Variables, Echo, Command Substitution, Formatting
 
 # Gathering system data
